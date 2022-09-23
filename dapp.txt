@@ -1,0 +1,30 @@
+web 1.0vs 2.0 vs 3.0
+Which transaction should go into the ledger?
+Can we trust transaction history?
+make history of transaction immutable.
+1.caesar cipher m->encrypt->cipher we can get back original data.
+Blockchain uses hashing. to get message back computing power is more (almost imposssible)
+Block Nonce Hash Blockchain
+Distributed Blockchain
+Ethereum-storing code on blocks
+
+Old way->Build a company raise VC funding IpO cashout
+New web 3 way:->Build release token for public to use dapp and raise money for your service from day1 DAO
+Dropbox vs filecoin $6,000,000 vs $257,000,000(initial coin offering) Pseudonymity
+
+Ethereum Problem->scaling:You cant store data on ethereum and costly to perform computation on ethereum.
+NFTs which are minted on ethereum are not even stored on the blockchain.Instead what you get is the url and the actual data.
+Images for NFts are often stored on a company's private server like the amazon web services.
+Lot of DApps on ethereum are often patchwork of differeent services. all css,js ,images are hosted on aws.
+ICP idea-to build a scalable cloud computer that runs on a blockchain
+Allows fast computaions and allows you to directly store the data on the blockchain network.
+transaction finality: update -2sec
+query-ms
+on chain  contract costs:$5/gb per year
+
+Internet Computer: goal :to achieve blockchain singularity
+Idea is to build a powerful secure blockchain capable of running entire base layer of the web.
+Todays dapps are only partilaily decentralized majority of data are stored on web 2 company servers.
+Etehereum -diificult to store large amount of data and computation
+ICP aggergrates computing power of large number of data centers and combines them using ICP protocol into a large single decentralized world computer.
+Icp->canister  canister can hold program and states using web assembly module and flat memeory module.
